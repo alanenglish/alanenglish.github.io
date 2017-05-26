@@ -1,7 +1,7 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: ALAN ENGLISH
+description: :developer => "soon"
+url: localhost:4000
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -26,23 +26,23 @@ sass:
   style:            compressed
 
 # Google Analytics
-#google-analytics: UA-XXXXX-Y
+# google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
-#google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+email:              aenglish@manorhillcapital.com
+#google.plus:       username
+twitter:            english_alan
+#facebook:          username
+github:             alanenglish
+stackoverflow:      8067691/alanenglish
+linkedin:           aenglish
 #xing:              username
-#instagram:          username
+instagram:          alan_english
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+#steam:             username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
