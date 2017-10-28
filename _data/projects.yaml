@@ -1,4 +1,4 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
+- title: Cold Bacon
+  url: https://github.com/alanenglish/Cold-Bacon-Client
+  image: /images/cold-bacon.png
+  completed: true
