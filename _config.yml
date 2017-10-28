@@ -1,6 +1,6 @@
 # Site
-title: ALAN ENGLISH
-description: :developer => "soon"
+title: alan english
+description: creator ~ entrepreneur
 url: https://alanenglish.github.io
 logo: halve.png # Site logo
 locale: en_US
@@ -29,12 +29,12 @@ sass:
 # google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:              aenglish@manorhillcapital.com
+email:              english.alanc@gmail.com
 #google.plus:       username
-twitter:            english_alan
+#twitter:           username
 #facebook:          username
 github:             alanenglish
-stackoverflow:      8067691/alanenglish
+#stackoverflow:     8067691/alanenglish
 linkedin:           aenglish
 #xing:              username
 instagram:          alan_english

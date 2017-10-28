@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# about me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+a recent graduate of dev bootcamp here in Chicago, i'm constantly enthralled in what i am truly passionate about - designing, creating and building beautiful things.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+an entrepreneur with experience leading a company, currently working with the incredible founders at SwayBrand to help connect influencers and brands like never before.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+i'd love to connect and hear about what you're working on.
